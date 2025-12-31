@@ -1,0 +1,7 @@
+.app {
+  background-image: url('/images/nursery-bg.jpg'); /* Replace with your actual background image path */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  padding: 20px;
+}
